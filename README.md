@@ -1,2 +1,2 @@
 I made this projects following youtube tutorials.
-I was inspired by this tutorials with doing minor changes!
+I was inspired by this tutorials and templates with doing minor changes!
