@@ -1,0 +1,28 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.progress {
+  background-color: #d8d8d8;
+  border-radius: 20px;
+  height: 30px;
+  width: 300px;
+}
+
+.progress-done {
+  background-color: #ff9472;
+  border-radius: 20px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  height: 100%;
+  width: 0;
+  transition: 1s ease;
+}
